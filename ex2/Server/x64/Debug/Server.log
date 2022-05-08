@@ -1,0 +1,4 @@
+﻿  Server.cpp
+D:\C++ Code\ex2\Server\Server.cpp(43,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\C++ Code\ex2\Server\Server.cpp(49,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Server.vcxproj -> D:\C++ Code\ex2\x64\Debug\Server.exe
